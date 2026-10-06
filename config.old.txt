@@ -1,0 +1,1 @@
+entrypoint: node19-core
